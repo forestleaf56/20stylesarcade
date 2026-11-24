@@ -19,7 +19,7 @@ Everything is drawn on a canvas and every note is synthesized with the Web Audio
 | 6 | Beat Brawl | Comic Book / Cel-Shaded | Funk & Breakbeats |
 | 7 | Brush Blade | Ukiyo-e / Sumi-e Ink Wash | Traditional Japanese |
 | 8 | Neon Rain | Cyberpunk Noir | Dark Synth / Industrial |
-| 9 | Polygon Run | Low-Poly PS1/N64 | Drum & Bass |
+| 9 | Polygon Run | Low-Poly Retro 3D (Late-90s) | Drum & Bass |
 | 10 | Lantern Meadow | Cozy Watercolor | Chamber Strings & Lullabies |
 | 11 | Cathedral of Ash | Gothic Dark Fantasy | Choral & Orchestral |
 | 12 | GRID/12 | Brutalist Monochrome | Glitch / IDM |
